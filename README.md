@@ -10,6 +10,7 @@ Fueled by existential coffee and a vendetta against semicolons.
 `Next.js` | `Three.js` | `Solidity` | `WebAssembly` | `Bash`  
 
 **🚀 Current Projects**  
+Local Password Manager 🔒 - A secure command-line password manager that stores your credentials locally with strong encryption. Built for users who want to maintain complete control over their password storage.
 
 
 **🔥 Interests**  
